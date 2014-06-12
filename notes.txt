@@ -1,3 +1,7 @@
 If a username and a password is not given when we clone a repository 
 from the remote server, after modifying a file, we can commit to the
 local repository but cannot push the updated content to the remote server.
+
+The ".git" folder really exists, but I think that it is hidden.
+So I cannot see it in Linux using "ls" or "ll" commands, or using the 
+File Browser.
